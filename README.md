@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NDurani
-- 👀 I’m interested in in code 
+- 👀 I’m interested in code 
 - 🌱 I’m currently learning git now
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
